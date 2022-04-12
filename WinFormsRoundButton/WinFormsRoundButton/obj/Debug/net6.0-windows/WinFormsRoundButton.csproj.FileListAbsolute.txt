@@ -1,0 +1,17 @@
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\bin\Debug\net6.0-windows\WinFormsRoundButton.exe
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\bin\Debug\net6.0-windows\WinFormsRoundButton.deps.json
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\bin\Debug\net6.0-windows\WinFormsRoundButton.runtimeconfig.json
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\bin\Debug\net6.0-windows\WinFormsRoundButton.dll
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\bin\Debug\net6.0-windows\WinFormsRoundButton.pdb
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.Form1.resources
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.AssemblyInfo.cs
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.dll
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\refint\WinFormsRoundButton.dll
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.pdb
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\WinFormsRoundButton.genruntimeconfig.cache
+C:\Users\devel\Desktop\WinFormsRoundButton\WinFormsRoundButton\obj\Debug\net6.0-windows\ref\WinFormsRoundButton.dll
